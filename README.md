@@ -1,6 +1,8 @@
 # Note-Sharing
 Note Sharing Web Application Using Django
+
 PREREQUISITES
+
 Python Version >> 3.7.8
 Virtualenv setup
 Features
@@ -15,10 +17,13 @@ Give It 🌟 if u find it useful.
 How to Run this project?
 
 Virtualenv Setup
+
 python -m install virtualenv or pip install virtualenv  
 virtualenv (environment_name)  
-environment_name\Scripts\activate  
+environment_name\Scripts\activate
+
 Run Project
+
 First Locate to project folder in cmd with virtual environment running  
 pip install -r requirements.txt  
 python manage.py makemigrations  
