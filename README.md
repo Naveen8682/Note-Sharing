@@ -4,6 +4,7 @@ Note Sharing Web Application Using Django
 PREREQUISITES
 
 1.Python Version >> 3.7.8
+
 2.Virtualenv setup
 
 Features
