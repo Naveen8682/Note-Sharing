@@ -3,16 +3,17 @@ Note Sharing Web Application Using Django
 
 PREREQUISITES
 
-Python Version >> 3.7.8
-Virtualenv setup
+1.Python Version >> 3.7.8
+2.Virtualenv setup
+
 Features
 
-A registerd user can access all the notes shared/added by the admin
-Can download the pdfs
-can request specific notes
-Admin can handle all the feattures like adding/updating/deleting the notes/users and can have overall control.
-sqlite3 database
-Give It 🌟 if u find it useful.
+1.A registerd user can access all the notes shared/added by the admin
+2.Can download the pdfs
+3.can request specific notes
+4.Admin can handle all the feattures like adding/updating/deleting the notes/users and can have overall control.
+5.sqlite3 database
+
 
 How to Run this project?
 
